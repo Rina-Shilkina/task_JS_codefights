@@ -30,4 +30,3 @@ function centuryFromYear(year) {
     }
     return result; 
 }
-
